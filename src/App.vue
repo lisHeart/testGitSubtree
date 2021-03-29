@@ -45,7 +45,7 @@ export default {
   },
   methods: {
     picItemClick(item) {
-      alert('item被点击');
+      alert('item被点击111111111');
     },
     nodeClick(model) {
       alert('节点被点击')
