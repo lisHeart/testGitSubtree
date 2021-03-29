@@ -35,7 +35,7 @@
 </template>
 
 <script>
-import { Timeline, TimelineItem, TimelineTitle } from './YWTimeLine'
+import { Timeline, TimelineItem, TimelineTitle } from '../YW/YWTimeLine'
 
 export default {
   components: {
